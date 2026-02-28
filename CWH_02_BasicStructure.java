@@ -1,4 +1,4 @@
-public class Basic_Structure_02{
+public class CWH_02_BasicStructure{
     public static void main(String[] args){
         System.out.println("Hello World") ;
     }
@@ -86,10 +86,20 @@ OBJECT ==>
 
     HouseholdRepair = blueprint (company)
     service = actual team sent to your house (object)
-    
+
     fixLeak() = plumber doing work
 
     Without object → No work
     Without class → No structure
     Without method → No task
+
+Official Java Naming Standards ==>
+    Classes - PascalConvention
+    Functions - camelConvention
+    Constants - All Capitals
+    Name can't start with a number
+    Name is Case-sensitive
+    Should not be a keyword
+    White Space not allowed
+    
  */
