@@ -1,4 +1,4 @@
-public class CWH_MultidimensionalArray {
+public class CWH_28_MultidimensionalArray {
     public static void main(String[] args) {
         // int[] marks; // 1D Array
         int[][] flats; // 2D Array
