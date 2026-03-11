@@ -1,4 +1,4 @@
-class Student{
+class Student1{
     int ID ;
     String name ;
     private int age;
@@ -16,7 +16,7 @@ class Student{
 }
 public class CWH_40_AccessModifiersGetterSetter {
     public static void main(String[] args) {
-        Student stud1 = new Student();
+        Student1 stud1 = new Student1();
         stud1.ID = 101 ;
         stud1.name = "Kunj Gupta";
         stud1.setAge(-3); // Setter Method will prevent this behaviour and default value will be assigned to age attribute 
