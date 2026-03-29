@@ -1,3 +1,5 @@
+package StaticInJava;
+
 class Student2 {
     static String college = "ABC";
 }
